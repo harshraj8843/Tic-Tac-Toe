@@ -1,95 +1,152 @@
-# A simple Tic Tac Toe command-line based game in python
+<p align="center">
+  <a href="" rel="noopener">
+ <img width=200px height=200px src="project/logo.png" alt="TODO APP"></a>
+</p>
 
-```
-Computer Input (0) =>  4
+<h3 align="center">Tic Tac Toe</h3>
 
-- - - 
-0 - - 
-- - - 
+<div align="center">
 
-User Input (1) => 1
+[![GitHub Issues](https://img.shields.io/github/issues/neukcode/Tic-Tac-Toe)](https://github.com/neukcode/Tic-Tac-Toe/issues) [![GitHub Forks](https://img.shields.io/github/forks/neukcode/Tic-Tac-Toe)](https://github.com/neukcode/Tic-Tac-Toe/network/members) [![GitHub Stars](https://img.shields.io/github/stars/neukcode/Tic-Tac-Toe)](https://github.com/neukcode/Tic-Tac-Toe/stargazers) [![License](https://img.shields.io/github/license/neukcode/Tic-Tac-Toe)](https://github.com/neukcode/Tic-Tac-Toe/blob/master/LICENSE.md)
 
-1 - - 
-0 - - 
-- - - 
+[![Twitter Follow](https://img.shields.io/twitter/follow/neukcode?style=social&label=Follow)](https://twitter.com/neukcode?ref_src=twsrc%5Etfw) [![Twitter Mention](https://img.shields.io/twitter/url?label=%40Mention&style=social&url=https://twitter.com/neukcode)](https://twitter.com/intent/tweet?screen_name=neukcode&ref_src=twsrc%5Etfw)
 
-Computer Input (0) =>  5
+</div>
 
-1 - - 
-0 0 - 
-- - - 
+---
 
-User Input (1) => 6
+<p align="center"> A Simple Tic Tac Toe game in Python
+    <br> 
+</p>
 
-1 - - 
-0 0 1 
-- - - 
+## 📝 Table of Contents
 
-Computer Input (0) =>  2
+- [About](#about)
+- [Getting Started](#getting_started)
+- [Built Using](#built_using)
+- [Authors](#authors)
+- [Examples](#examples)
 
-1 0 - 
-0 0 1 
-- - - 
+## 🧐 About <a name = "about"></a>
 
-User Input (1) => 8
+A Simple Tic Tac Toe game in Python.
 
-1 0 - 
-0 0 1 
-- 1 - 
+## 🏁 Getting Started <a name = "getting_started"></a>
 
-Computer Input (0) =>  3
+- clone project
+  ```
+  git clone https://github.com/neukcode/Tic-Tac-Toe
+  ```
+  ```
+  cd Tic-Tac-Toe/
+  ```
+- run
+  ```
+  python3 ttt.py
+  ```
 
-1 0 0 
-0 0 1 
-- 1 - 
+## ⛏️ Built Using <a name = "built_using"></a>
 
-User Input (1) => 7
+- [Python](https://www.python.org/)
 
-1 0 0 
-0 0 1 
-1 1 - 
+## ✍️ Authors <a name = "authors"></a>
 
-Computer Input (0) =>  9
+- [@harshraj8843](https://github.com/harshraj8843)
 
-1 0 0 
-0 0 1 
-1 1 0 
-```
-```
-Computer Input (0) =>  1
-
-0 - - 
-- - - 
-- - - 
-
-User Input (1) => 2
-
-0 1 - 
-- - - 
-- - - 
-
-Computer Input (0) =>  4
-
-0 1 - 
-0 - - 
-- - - 
-
-User Input (1) => 3
-
-0 1 1 
-0 - - 
-- - - 
-
-Computer Input (0) =>  7
-
-0 1 1 
-0 - - 
-0 - - 
+## Examples <a name = "examples"></a>
 
 
-*****************************
+1. ```
+    Computer Input (0) =>  4
 
-******* Computer Won ********
+    - - - 
+    0 - - 
+    - - - 
 
-*****************************
-```
+    User Input (1) => 1
+
+    1 - - 
+    0 - - 
+    - - - 
+
+    Computer Input (0) =>  5
+
+    1 - - 
+    0 0 - 
+    - - - 
+
+    User Input (1) => 6
+
+    1 - - 
+    0 0 1 
+    - - - 
+
+    Computer Input (0) =>  2
+
+    1 0 - 
+    0 0 1 
+    - - - 
+
+    User Input (1) => 8
+
+    1 0 - 
+    0 0 1 
+    - 1 - 
+
+    Computer Input (0) =>  3
+
+    1 0 0 
+    0 0 1 
+    - 1 - 
+
+    User Input (1) => 7
+
+    1 0 0 
+    0 0 1 
+    1 1 - 
+
+    Computer Input (0) =>  9
+
+    1 0 0 
+    0 0 1 
+    1 1 0 
+    ```
+
+2. ```
+    Computer Input (0) =>  1
+
+    0 - - 
+    - - - 
+    - - - 
+
+    User Input (1) => 2
+
+    0 1 - 
+    - - - 
+    - - - 
+
+    Computer Input (0) =>  4
+
+    0 1 - 
+    0 - - 
+    - - - 
+
+    User Input (1) => 3
+
+    0 1 1 
+    0 - - 
+    - - - 
+
+    Computer Input (0) =>  7
+
+    0 1 1 
+    0 - - 
+    0 - - 
+
+
+    *****************************
+
+    ******* Computer Won ********
+
+    *****************************
+    ```
