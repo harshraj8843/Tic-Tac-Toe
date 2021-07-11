@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="project/logo.png" alt="TODO APP"></a>
+ <img width=200px height=200px src="project/logo.png" alt="Tic Tac Toe"></a>
 </p>
 
 <h3 align="center">Tic Tac Toe</h3>
