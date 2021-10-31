@@ -1,18 +1,12 @@
-
 <h3 align="center">Tic Tac Toe</h3>
 
 ---
-
-<p align="center"> A Simple Tic Tac Toe game in Python
-    <br> 
-</p>
 
 ## 📝 Table of Contents
 
 - [About](#about)
 - [Getting Started](#getting_started)
 - [Built Using](#built_using)
-- [Authors](#authors)
 - [Examples](#examples)
 
 ## 🧐 About <a name = "about"></a>
@@ -23,7 +17,7 @@ A Simple Tic Tac Toe game in Python.
 
 - clone project
   ```
-  git clone https://github.com/harshraj8843/Tic-Tac-Toe
+  git clone https://github.com/novicexp/Tic-Tac-Toe
   ```
   ```
   cd Tic-Tac-Toe/
@@ -36,10 +30,6 @@ A Simple Tic Tac Toe game in Python.
 ## ⛏️ Built Using <a name = "built_using"></a>
 
 - [Python](https://www.python.org/)
-
-## ✍️ Authors <a name = "authors"></a>
-
-- [@harshraj8843](https://github.com/harshraj8843)
 
 ## Examples <a name = "examples"></a>
 
