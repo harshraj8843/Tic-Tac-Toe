@@ -17,7 +17,7 @@ A Simple Tic Tac Toe game in Python.
 
 - clone project
   ```
-  git clone https://github.com/novicexp/Tic-Tac-Toe
+  git clone https://github.com/harshraj8843/Tic-Tac-Toe
   ```
   ```
   cd Tic-Tac-Toe/
